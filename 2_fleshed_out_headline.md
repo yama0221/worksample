@@ -10,8 +10,10 @@
 Ruby on Railsは、プログラミングの快適性を追求した、フルスタックのフレームワークです。
 Rubyは英語の様に解読でき、Railsは、共通タスクを容易にするツールを備えています。
 Shopify、Bloomberg、HuluやSlideshareなどの人気サイトではバックエンド開発の大部分にRubyを使用しており、Ruby on Railsで構築されています。
+
 引用元:https://tech-camp.in/note/226/
 
 スタートアップは「Ruby on Rails」を好みます。Airbnb、Twitch、Hulu等の多くの有名サイトはRailsで構築されており、Ruby技術者を必要とするでしょう。
 Railsは、習得し易いのでコーディング初心者にとって人気であり続けるでしょう。
+
 引用元:https://techacademy.jp/magazine/8735
