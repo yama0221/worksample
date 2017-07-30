@@ -1,3 +1,3 @@
-###uself‚É‚Â‚¢‚Ävà–¾•¶‚ª“ï‚µ‚©‚Á‚½‚Å‚·B
-self‚ÍƒCƒ“ƒXƒ^ƒ“ƒXƒIƒuƒWƒFƒNƒgŽ©g‚ðŽw‚µ‚Ä‚¢‚Ü‚·B
-ƒNƒ‰ƒX‚Ì’†‚ÅƒCƒ“ƒXƒ^ƒ“ƒXƒIƒuƒWƒFƒNƒg‚ðŒÄ‚Ño‚·Û‚â‚»‚ÌƒCƒ“ƒXƒ^ƒ“ƒXƒIƒuƒWƒFƒNƒg‚ðŒÄ‚Ño‚·Û‚ÍAself‚ðŽg—p‚µ‚Ü‚·B
+###ã€Œselfã«ã¤ã„ã¦ã€
+selfã¯ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆè‡ªèº«ã‚’æŒ‡ã—ã¦ã„ã¾ã™ã€‚
+ã‚¯ãƒ©ã‚¹ã®ä¸­ã§ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã‚’å‘¼ã³å‡ºã™éš›ã‚„ãã®ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã‚’å‘¼ã³å‡ºã™éš›ã¯ã€selfã‚’ä½¿ç”¨ã—ã¾ã™ã€‚
